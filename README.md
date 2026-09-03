@@ -9,8 +9,8 @@
 
 I am an AI & Automation Engineer and Full-Stack Developer based in Pakistan, currently pursuing my BSIT & AI at **The University of Chakwal**. With a robust network of 3,000+ LinkedIn connections, 13+ industry roles/internships, and 17+ shipped projects, I specialize in building intelligent, scalable systems, interactive 3D web experiences, and autonomous automation pipelines.
 
-* **Portfolio Live URL:** [syed-muneeb-haider-portfolio.vercel.app](https://syed-muneeb-haider-portfolio.vercel.app/)
-* **GitHub Profile:** [Muneebshah1192](https://github.com/Muneebshah1192)
+* **Portfolio Live URL:** [https://syed-muneeb-haider-portfolio.vercel.app/](https://syed-muneeb-haider-portfolio.vercel.app/)
+* **GitHub Repository:** [https://github.com/Muneebshah1192/My-Portfolio](https://github.com/Muneebshah1192/My-Portfolio)
 * **Professional Contact:** muneebshah1192@gmail.com | WhatsApp: +92 314 0895219
 
 ---
@@ -48,11 +48,11 @@ I am an AI & Automation Engineer and Full-Stack Developer based in Pakistan, cur
 | Project Name | Description | Key Tech Stack | Live / Repo Link |
 | :--- | :--- | :--- | :--- |
 | **Personal 3D Portfolio** | High-performance interactive portfolio featuring scroll-based 3D animations, background video integration, and project archives. | Next.js, React, Three.js, WebGL, Tailwind CSS | [Visit App](https://syed-muneeb-haider-portfolio.vercel.app/) |
-| **QueueLess** | Intelligent real-time queue orchestration and predictive token allocation platform designed to eliminate physical waiting lines. | Python, Next.js, FastAPI, WebSockets, PostgreSQL | [GitHub Repository](https://github.com/Muneebshah1192) |
-| **TextForge Studio** | Enterprise-grade generative AI text generation and content engineering suite with prompt calibration and document analysis. | Next.js, OpenAI API, Tailwind CSS, Supabase, Stripe | [GitHub Repository](https://github.com/Muneebshah1192) |
-| **CRMS** | Secure centralized relational database and biometric record indexing portal with role-based access control and cryptography. | Java, Oracle SQL, Spring Boot, React, Cryptography | [GitHub Repository](https://github.com/Muneebshah1192) |
-| **Style & Glow Affiliate Platform** | Automated e-commerce affiliate aggregator with dynamic price intelligence and scraping pipelines. | Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS | [GitHub Repository](https://github.com/Muneebshah1192) |
-| **Autonomous YouTube SEO Engine** | Autonomous transcription, keyword extraction, and metadata optimization pipeline utilizing speech-to-text and LLMs. | n8n, Python, OpenAI API, YouTube Data API | [GitHub Repository](https://github.com/Muneebshah1192) |
+| **QueueLess** | Intelligent real-time queue orchestration and predictive token allocation platform designed to eliminate physical waiting lines. | Python, Next.js, FastAPI, WebSockets, PostgreSQL | [GitHub Repository](https://github.com/Muneebshah1192/My-Portfolio) |
+| **TextForge Studio** | Enterprise-grade generative AI text generation and content engineering suite with prompt calibration and document analysis. | Next.js, OpenAI API, Tailwind CSS, Supabase, Stripe | [GitHub Repository](https://github.com/Muneebshah1192/My-Portfolio) |
+| **CRMS** | Secure centralized relational database and biometric record indexing portal with role-based access control and cryptography. | Java, Oracle SQL, Spring Boot, React, Cryptography | [GitHub Repository](https://github.com/Muneebshah1192/My-Portfolio) |
+| **Style & Glow Affiliate Platform** | Automated e-commerce affiliate aggregator with dynamic price intelligence and scraping pipelines. | Next.js, TypeScript, Node.js, MongoDB, Tailwind CSS | [GitHub Repository](https://github.com/Muneebshah1192/My-Portfolio) |
+| **Autonomous YouTube SEO Engine** | Autonomous transcription, keyword extraction, and metadata optimization pipeline utilizing speech-to-text and LLMs. | n8n, Python, OpenAI API, YouTube Data API | [GitHub Repository](https://github.com/Muneebshah1192/My-Portfolio) |
 
 ---
 
@@ -74,5 +74,5 @@ To run or evaluate components of this portfolio locally:
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/Muneebshah1192/syed_muneeb_portfolio_vercel.git](https://github.com/Muneebshah1192/syed_muneeb_portfolio_vercel.git)
-   cd syed_muneeb_portfolio_vercel
+   git clone [https://github.com/Muneebshah1192/My-Portfolio.git](https://github.com/Muneebshah1192/My-Portfolio.git)
+   cd My-Portfolio
